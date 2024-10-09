@@ -8,5 +8,5 @@ Aplikasi ini memiliki beberapa fitur yakni:
 - Dapat auto-update cuaca
 
 ## Cara Penggunaan
-Untuk penggunaan aplikasi ini cukup menuliskan nama lokasi di search bar bagian atas,kemudia hasil pencarian akan ditampilkan di bawah
+Untuk penggunaan aplikasi ini cukup menuliskan nama lokasi di search bar bagian atas,kemudian hasil pencarian akan ditampilkan di bawah
 
